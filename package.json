@@ -1,0 +1,11 @@
+{
+    "name": "shrunked-tb",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "compress-build": "@powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./scripts/compress_arch.ps1"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}

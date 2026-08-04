@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "shrunked@mllr.pl": {
+      "updates": [
+        { 
+          "version": "5.10.3",
+          "update_info_url": "https://github.com/memeller/shrunked/releases/tag/v5.10.3",
+          "update_link": "https://github.com/memeller/shrunked/releases/download/v5.10.3/shrunked_image_resizer-5.10.3.xpi" },
+          "applications": {
+            "gecko": {
+              "strict_min_version": "128.0"
+            }
+          }
+      ]
+    }
+  }
+}
